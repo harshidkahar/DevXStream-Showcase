@@ -251,4 +251,5 @@
 
 ---
 
-> For technical support or onboarding help, contact the DevXStream team at **devxstream@support.com** or open an issue in this repo.
+> For technical support or onboarding help, contact the DevXStream team at **support@devxstream.com** or open an issue in this repo.
+
